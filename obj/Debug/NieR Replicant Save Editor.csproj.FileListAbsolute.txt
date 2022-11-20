@@ -9,3 +9,14 @@ D:\Projects\CSharp\NieR Replicant Save Editor\obj\Debug\NieR Replicant Save Edit
 D:\Projects\CSharp\NieR Replicant Save Editor\obj\Debug\NieR Replicant Save Editor.exe
 D:\Projects\CSharp\NieR Replicant Save Editor\obj\Debug\NieR Replicant Save Editor.pdb
 D:\Projects\CSharp\NieR Replicant Save Editor\obj\Debug\NieR_Replicant_Save_Editor.Main.resources
+C:\Programs\My Programs\C#\NieR Replicant Save Editor\bin\Debug\NieR Replicant Save Editor.exe.config
+C:\Programs\My Programs\C#\NieR Replicant Save Editor\bin\Debug\NieR Replicant Save Editor.exe
+C:\Programs\My Programs\C#\NieR Replicant Save Editor\bin\Debug\NieR Replicant Save Editor.pdb
+C:\Programs\My Programs\C#\NieR Replicant Save Editor\obj\Debug\NieR Replicant Save Editor.csproj.AssemblyReference.cache
+C:\Programs\My Programs\C#\NieR Replicant Save Editor\obj\Debug\NieR Replicant Save Editor.csproj.SuggestedBindingRedirects.cache
+C:\Programs\My Programs\C#\NieR Replicant Save Editor\obj\Debug\NieR_Replicant_Save_Editor.Main.resources
+C:\Programs\My Programs\C#\NieR Replicant Save Editor\obj\Debug\NieR_Replicant_Save_Editor.Properties.Resources.resources
+C:\Programs\My Programs\C#\NieR Replicant Save Editor\obj\Debug\NieR Replicant Save Editor.csproj.GenerateResource.cache
+C:\Programs\My Programs\C#\NieR Replicant Save Editor\obj\Debug\NieR Replicant Save Editor.csproj.CoreCompileInputs.cache
+C:\Programs\My Programs\C#\NieR Replicant Save Editor\obj\Debug\NieR Replicant Save Editor.exe
+C:\Programs\My Programs\C#\NieR Replicant Save Editor\obj\Debug\NieR Replicant Save Editor.pdb
